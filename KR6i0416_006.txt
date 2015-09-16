@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:04.232523
+#+DATE: 2015-08-30 20:19:06.992107
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0416_T_006-0434b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《妙法聖念處經》卷第六¶
+《妙法聖念處經》卷第六¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 三藏傳教大師賜紫沙門臣法天¶

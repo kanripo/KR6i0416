@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:04.304245
+#+DATE: 2015-08-30 20:19:07.054752
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0416_T_008-0442a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《妙法聖念處經》卷第八¶
+《妙法聖念處經》卷第八¶
 ¶
 西天中印度摩伽陀國¶
 那爛陀寺三藏傳教大師¶
@@ -461,7 +460,7 @@
 　無實愛戀，¶
 　如彼燈焰，
 　彼實為怨，
-　如蠅𠯗瘡。¶
+　如蠅[口*(一/巾)]瘡。¶
 　愛彼有財，
 　非愛無財，
 　若有財物，¶

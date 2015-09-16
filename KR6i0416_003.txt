@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:04.138739
+#+DATE: 2015-08-30 20:19:06.917501
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0416_T_003-0424c> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《妙法聖念處經》卷第三¶
+《妙法聖念處經》卷第三¶
 ¶
 大宋西天中印度摩伽陀國那爛陀寺¶
 三藏傳教大師賜紫沙門臣法天¶
@@ -268,7 +267,7 @@
 <pb:KR6i0416_T_003-0426c>¶
 業之因，輪轉三塗受苦無量，從彼出已，若生¶
 人中，貧窮困苦，諸根不具，飢渴所逼，煩惱¶
-增盛，其性暴惡，猶如象馬，𢤱悷不調，愚迷¶
+增盛，其性暴惡，猶如象馬，[怡-台+龍]悷不調，愚迷¶
 邪執，恒時相應，病苦纏縛而無間斷，其心¶
 放逸，虛妄攀緣，時無止息；聾、盲、瘖、瘂，不值正¶
 法，恒處邊地，智慧乏少，愚癡邪執，受種種¶

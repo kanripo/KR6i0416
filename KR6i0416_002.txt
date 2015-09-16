@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:04.115038
+#+DATE: 2015-08-30 20:19:06.897959
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0416_T_002-0422a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《妙法聖念處經》卷第二¶
+《妙法聖念處經》卷第二¶
 ¶
 大宋西天中印度摩伽陀國¶
 那爛陀寺三藏傳教大師賜紫¶
@@ -68,7 +67,7 @@
 時。¶
 
 「比丘應知，思惟離妄，修習正行，慎護三業，彼¶
-苦澁罪，獲報艱辛，疼痛艱任，焚燒決定。是¶
+苦澁罪，護報艱辛，疼痛艱任，焚燒決定。是¶
 故，比丘應當遠離一切過非及諸怖畏。¶
 
 「比丘應知，自作自受他不能免，彼殺生等，十¶
