@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:31
+#+DATE: 2016-06-08 9:32
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0416_T_005-0430b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -239,7 +239,7 @@
 #+END_VERSE
 ¶
 
-爾時，有天名烏波襪踰，宿善業力，生忉利天。¶
+爾時，有天名烏波[革*(卄/(ㄇ@人)/戍)]踰，宿善業力，生忉利天。¶
 彼有苾芻為其天王，而說伽他曰：¶
 
 #+BEGIN_VERSE

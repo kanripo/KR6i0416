@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:31
+#+DATE: 2016-06-08 9:32
 #+TITLE: 妙法聖念處經
 #+PROPERTY: CBETA_ID T17n0722
 #+PROPERTY: ID KR6i0416
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 722
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0416_T_003-0424c> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
@@ -280,7 +280,7 @@
 謗，令心歡喜。」
 
 時，諸比丘復白佛言：「有情云¶
-何捨離過非，修習勝行？願佛演說，利益未¶
+何捨離過非，修習勝行？󵵕佛演說，利益未¶
 來。」¶
 
 爾時，世尊告諸比丘：「諦聽，諦聽！今為汝說。若¶
